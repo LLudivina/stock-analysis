@@ -7,3 +7,10 @@ In module 2, we were introduced to Steve, a recent grad with a degree in finance
 ## Purpose
 The purpose of this project is to refactor the VBA script for a stock dataset from 2018 and to measure this VBA script’s performance.
 
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/115508896/204389460-faff08b8-9ea3-4e50-b4a8-d3d6912a7dcd.png)
+
+![extra-2](https://user-images.githubusercontent.com/115508896/204389482-4b9e740e-069d-4579-8010-171571d0427f.png)
+
+
+
+![VBA_Challenge_2018-2](https://user-images.githubusercontent.com/115508896/204389513-c321c643-9e85-49e0-8439-476c4d2a7eae.png)
