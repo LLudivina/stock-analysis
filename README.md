@@ -14,7 +14,7 @@ Figure 1
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/115508896/204389460-faff08b8-9ea3-4e50-b4a8-d3d6912a7dcd.png)
 
-As seen in Figure 1, it took about 0.609375 seconds for the code to analyze the 2018 stock data.  We were then provided with a starter code file that was used to refactor the code and as seen in Figure 2.  
+As seen in Figure 1, it took about 0.609375 seconds for the code to analyze the 2018 stock data.  We were then provided with a starter code file that was used to refactor the code as seen in Figure 2.  
 
 Figure 2
 
