@@ -26,7 +26,7 @@ Figure 3
 
 ![VBA_Challenge_2018-2](https://user-images.githubusercontent.com/115508896/204389513-c321c643-9e85-49e0-8439-476c4d2a7eae.png)
 
-As seen in Figure 3, it took around 0.0625 seconds for the restructured code to analyze the 2018 stock data. Overall, the code improved by a factor of ten meaning the refactored code is 10 times faster than the original code. 
+As seen in Figure 3, it took around 0.0625 seconds for the restructured code to analyze the 2018 stock data. Overall, the code improved by a factor of ten meaning the refactored code was 10 times faster than the original code. 
 
 ##Summary
 
